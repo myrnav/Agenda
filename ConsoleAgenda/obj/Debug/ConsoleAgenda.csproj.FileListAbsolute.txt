@@ -1,0 +1,7 @@
+C:\Users\Myrna\Desktop\CAI\codigo\Agenda\ConsoleAgenda\bin\Debug\ConsoleAgenda.exe.config
+C:\Users\Myrna\Desktop\CAI\codigo\Agenda\ConsoleAgenda\bin\Debug\ConsoleAgenda.exe
+C:\Users\Myrna\Desktop\CAI\codigo\Agenda\ConsoleAgenda\bin\Debug\ConsoleAgenda.pdb
+C:\Users\Myrna\Desktop\CAI\codigo\Agenda\ConsoleAgenda\obj\Debug\ConsoleAgenda.csproj.AssemblyReference.cache
+C:\Users\Myrna\Desktop\CAI\codigo\Agenda\ConsoleAgenda\obj\Debug\ConsoleAgenda.csproj.CoreCompileInputs.cache
+C:\Users\Myrna\Desktop\CAI\codigo\Agenda\ConsoleAgenda\obj\Debug\ConsoleAgenda.exe
+C:\Users\Myrna\Desktop\CAI\codigo\Agenda\ConsoleAgenda\obj\Debug\ConsoleAgenda.pdb
